@@ -50,6 +50,9 @@ toloka_client = toloka.TolokaClient(input("Enter your token:"), 'PRODUCTION')
 print(toloka_client.get_requester())
 ```
 
+test
+test
+
 Useful Links
 --------------
 - [Toloka homepage.](https://toloka.ai/)
@@ -61,7 +64,7 @@ Useful Links
 Questions and bug reports
 --------------
 * For reporting bugs please use the [Toloka/bugreport](https://github.com/Toloka/toloka-kit/issues) page.
-* Seek prompt advice at Russian-speaking [Telegram chat](https://t.me/tolokacommunity) (Abstract questions about the platform are also welcome)
+* Seek prompt advice at Russian- [Telegram chat](https://t.me/tolokacommunity) (Abstract questions about the platform are also welcome)
 * Seek prompt advice at English-speaking [Telegram chat](https://t.me/toloka_tech) (Mostly tech question)
 
 
